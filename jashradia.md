@@ -1,42 +1,43 @@
 YT Link - https://youtu.be/ZNg6cFcBISw?si=fy8I1WChMq2ZONYz
 
-# MAIN FOCUS AREAS
+Main Focus Areas
 
-## DSA
-## SQL Advanced (5 Aggregations)
-## Database
+DSA
 
-## Big Data
-- Hadoop
-- Hive
-- Spark
-- Cloud Computing
-- In-depth Spark and Hadoop
+Advanced SQL (5 types of aggregations)
 
-## Data Modeling
-- Full data model with requirements
-- OLAP and OLTP
+Databases
 
-## Cloud-Based Processing Pipelines
-- Creating pipelines
-- Choosing correct components while creating pipelines
+Big Data: Hadoop, Hive, Spark, Cloud Computing
 
-## Behavioral
-- What will you do if this happens
+In-depth focus on Spark & Hadoop
 
-# INTERVIEW ROUNDS (LINKEDIN POST)
+Data Modeling
 
-## Round 1
-General technical — DSA, Cloud, and distributed systems
+Complete models based on requirements
 
-## Round 2
-Data modeling, SQL (live coding), DSA (live coding), and Cloud based on experience
+OLAP & OLTP
 
-## Round 3
-Pure DSA coding
+Cloud-based Processing Pipelines
 
-## Round 4
-System design and big data (Cloud, Spark, Hadoop)
+Pipeline Design
 
-## Round 5
-Behavioral (Googleyness)
+Creating pipelines
+
+Choosing the right components for each use case
+
+Behavioral
+
+Scenario-based questions (e.g., What would you do if this happens?)
+
+LinkedIn Post (Polished Version)
+
+Round 1: General technical — DSA, Cloud, and distributed systems
+
+Round 2: Data modeling, SQL (live coding), DSA (live coding), and Cloud questions based on experience
+
+Round 3: Pure DSA coding round
+
+Round 4: System design and big data problem-solving (Cloud, Spark, Hadoop)
+
+Round 5: Behavioral round (Googleyness)
