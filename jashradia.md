@@ -1,43 +1,70 @@
 YT Link - https://youtu.be/ZNg6cFcBISw?si=fy8I1WChMq2ZONYz
 
-Main Focus Areas
+# Main Focus Areas
 
-DSA
+## DSA
+- Data Structures & Algorithms
 
-Advanced SQL (5 types of aggregations)
+## Advanced SQL
+- 5 types of aggregations
 
-Databases
+## Databases
+- Core database concepts
 
-Big Data: Hadoop, Hive, Spark, Cloud Computing
+## Big Data
+- Hadoop
+- Hive
+- Spark
+- Cloud Computing
 
-In-depth focus on Spark & Hadoop
+### Deep Dive
+- In-depth focus on **Spark & Hadoop**
 
-Data Modeling
+---
 
-Complete models based on requirements
+## Data Modeling
+- Complete models based on requirements
+- **OLAP & OLTP**
 
-OLAP & OLTP
+---
 
-Cloud-based Processing Pipelines
+## Cloud-Based Processing Pipelines
 
-Pipeline Design
+### Pipeline Design
+- Creating pipelines
+- Choosing the right components for each use case
 
-Creating pipelines
+---
 
-Choosing the right components for each use case
+## Behavioral
+- Scenario-based questions  
+  - Example: *What would you do if this happens?*
 
-Behavioral
+---
 
-Scenario-based questions (e.g., What would you do if this happens?)
+## LinkedIn Post (Polished Version)
 
-LinkedIn Post (Polished Version)
+### Interview Rounds Breakdown
 
-Round 1: General technical — DSA, Cloud, and distributed systems
+**Round 1**
+- General technical
+- DSA
+- Cloud
+- Distributed systems
 
-Round 2: Data modeling, SQL (live coding), DSA (live coding), and Cloud questions based on experience
+**Round 2**
+- Data modeling
+- SQL (live coding)
+- DSA (live coding)
+- Cloud questions based on experience
 
-Round 3: Pure DSA coding round
+**Round 3**
+- Pure DSA coding round
 
-Round 4: System design and big data problem-solving (Cloud, Spark, Hadoop)
+**Round 4**
+- System design
+- Big data problem-solving
+- Cloud, Spark, Hadoop
 
-Round 5: Behavioral round (Googleyness)
+**Round 5**
+- Behavioral round (Googleyness)
