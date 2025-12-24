@@ -92,3 +92,9 @@ Lavanya EV - https://youtu.be/BB-bBDXihy4?si=jwjE6bIt48eXE33i
   - ATS-friendly
   - Proper keywords
   - Best
+## Compensation
+
+- **Base:** 21 to 27 LPA  
+- **Variable:** 10% to 15%  
+- **Stocks:** 30 to 45 LPA  
+- **Bonus:** 3 to 5 Lakhs  
