@@ -91,7 +91,9 @@ Lavanya EV - https://youtu.be/BB-bBDXihy4?si=jwjE6bIt48eXE33i
 - **Resume:**
   - ATS-friendly
   - Proper keywords
-  - Best
+  - Best highlights
+  - Strong projects
+- Good candidate = Company support matters
 ## Compensation
 
 - **Base:** 21 to 27 LPA  
